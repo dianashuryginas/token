@@ -1,0 +1,122 @@
+{
+  "ru": {
+    "profile": {
+      "name": "Диана Шурыгина",
+      "description": "Та самая Диана Шурыгина. Подписывайся, со мной не заскучаешь!",
+      "photo": "/images/profile.JPG",
+      "headerBackground": "/images/header.png"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Эксклюзив 🍓",
+          "text": "Только самый крутой контент для тебя в моем боте! 🚀",
+          "icon": "/images/shura-bot.webp",
+          "url": "https://t.me/DianaBrilliantBot"
+        },
+        {
+          "name": "Телеграм канал (RU)",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaShuryginas "
+        },
+        {
+          "name": "Телеграм канал (EN)",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/Di_DianaShurygina"
+        },
+        {
+          "name": "Телеграм чатик",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DiShurigina "
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Инстаграм",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_shlianina.s/"
+        },
+        {
+          "name": "Тикток",
+          "icon": "/images/social-icons/tiktok.webp",
+          "url": "https://www.tiktok.com/@shurygina_vlog"
+        },
+        {
+          "name": "Дзен",
+          "icon": "/images/social-icons/dzen.webp",
+          "url": "https://dzen.ru/dianashurygina "
+        },
+        {
+          "name": "Вконтакте",
+          "icon": "/images/social-icons/vk.webp",
+          "url": "https://vk.com/diana_shurygina_vlog"
+        },
+        {
+          "name": "Одноклассники",
+          "icon": "/images/social-icons/ok.webp",
+          "url": "https://ok.ru/profile/910036457657"
+        },
+        {
+          "name": "Ютуб",
+          "icon": "/images/social-icons/youtube.webp",
+          "url": "https://www.youtube.com/@Diana_Shurygina./videos"
+        },
+        {
+          "name": "П-Хаб",
+          "icon": "/images/social-icons/p-hub.webp",
+          "url": "https://rt.pornhub.com/model/dianashurygina"
+        },
+        {
+          "name": "Бусти",
+          "icon": "/images/social-icons/boosty.webp",
+          "url": "https://boosty.to/dianashurygina"
+        },
+        {
+          "name": "Threads",
+          "icon": "/images/social-icons/threads.webp",
+          "url": "https://www.threads.net/@diana_shlianina.s"
+        },
+        {
+          "name": "Ton.Place",
+          "icon": "/images/social-icons/tonplace.webp",
+          "url": "https://ton.place/u/dianashurygina"
+        }
+      ]
+    },
+    "tokenLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Launchpad Blum",
+          "icon": "/images/social-icons/blum.webp",
+          "url": "https://t.me/blum/app?startapp=memepadjetton_DIANA_JMsOk-ref_kHjGPieMZD"
+        },
+        {
+          "name": "Токен Diana (RU)",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/ShuryginaDianaCoin"
+        },
+        {
+          "name": "Телеграм Лайв",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/ShuryginaToken"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Лайф Инстаграм",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_s_life2/"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/social-icons/github.webp",
+          "url": "https://github.com/dianashuryginas"
+        }
+      ]
+    },
+    "titles": {
+      "model": "Модели",
+      "token": "Токены"
+    }
+  }
+}
